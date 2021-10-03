@@ -16,3 +16,4 @@ i used javascript to dynamically create navbar links based on the content, when 
 # Notes
 
 i removed Document.createDocumentFragment() and the top button because i got them online but i really understand how to use them so i put them but maybe they were the main reason.
+![1](https://user-images.githubusercontent.com/91816795/135740548-2e77d851-a2a7-4657-be27-1bd2c3f1777d.PNG)
